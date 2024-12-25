@@ -1,5 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Tryncha",
+	"description": "A project that does something unexpected",
+	"keywords": [ "description", "related", "freecodecamp", "key" ],
+	"license": "MIT",
+	"version": "0.1",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
